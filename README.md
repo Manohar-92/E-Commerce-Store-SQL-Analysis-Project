@@ -39,7 +39,7 @@ SQL skills across:
 | `payments` | ~511 | Payments made against orders |
 | `reviews` | 350 | Customer product reviews & ratings |
 
-See `<a href="https://github.com/Manohar-92/E-Commerce-Store-SQL-Analysis-Project/blob/main/Ecommerce_Store_Schema_Diagram.png">Ecommerce_Store_Schema_Diagram.png<a/>` above for the full entity
+See <a href="https://github.com/Manohar-92/E-Commerce-Store-SQL-Analysis-Project/blob/main/Ecommerce_Store_Schema_Diagram.png">Ecommerce_Store_Schema_Diagram.png<a/> above for the full entity
 relationship diagram, or `Ecommerce_Store_Create_Tables_Query_POSTGRES.sql`
 for the raw DDL.
 
