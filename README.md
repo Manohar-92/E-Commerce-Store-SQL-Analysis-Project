@@ -75,7 +75,7 @@ Ecommerce_Store_SQL_Project/
 ### Option A — Restore the ready-made backup (fastest)
 1. In pgAdmin, create an empty database (e.g. `Ecommerce_Store`).
 2. Right-click it → **Restore...**
-3. Format: **Custom or tar** → select `Ecommerce_Store.backup` → Restore.
+3. Format: **Custom or tar** → select <a href="https://github.com/Manohar-92/E-Commerce-Store-SQL-Analysis-Project/blob/main/Ecommerce_Store.backup">Ecommerce_Store.backup<a/> → Restore.
 4. Done — all 10 tables are created and fully populated.
 
 ### Option B — Build it from scratch
