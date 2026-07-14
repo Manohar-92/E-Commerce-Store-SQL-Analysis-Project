@@ -1,0 +1,201 @@
+product_id,product_name,category_id,supplier_id,unit_price,stock_quantity,reorder_level
+1,Wireless Earbuds,1,7,120.17,308,6
+2,Wireless Earbuds - Pro Edition,1,18,103.42,332,49
+3,4K Monitor,1,18,212.66,229,42
+4,4K Monitor - Pro Edition,1,9,405.67,3,15
+5,Bluetooth Speaker,1,14,173.42,79,18
+6,Bluetooth Speaker - Pro Edition,1,11,55.59,194,11
+7,Smartwatch,1,12,424.51,309,21
+8,Smartwatch - Pro Edition,1,2,366.22,274,12
+9,Laptop Stand,1,13,44.01,150,45
+10,Laptop Stand - Pro Edition,1,20,443.3,185,41
+11,USB-C Hub,1,7,353.76,23,47
+12,USB-C Hub - Pro Edition,1,8,387.67,40,19
+13,Mechanical Keyboard,1,4,193.16,232,45
+14,Mechanical Keyboard - Pro Edition,1,12,85.51,181,18
+15,Gaming Mouse,1,9,352.4,349,46
+16,Gaming Mouse - Pro Edition,1,3,306.52,87,39
+17,Power Bank,1,8,85.88,194,22
+18,Power Bank - Pro Edition,1,18,113.71,166,8
+19,Webcam HD,1,8,411.79,412,25
+20,Webcam HD - Pro Edition,1,13,137.53,108,41
+21,Cotton T-Shirt,2,11,110.25,255,30
+22,Cotton T-Shirt - Pro Edition,2,15,75.72,71,20
+23,Denim Jacket,2,18,271.79,382,42
+24,Denim Jacket - Pro Edition,2,14,449.42,204,28
+25,Running Shoes,2,8,498.68,70,37
+26,Running Shoes - Pro Edition,2,16,50.0,24,12
+27,Wool Sweater,2,5,315.59,405,48
+28,Wool Sweater - Pro Edition,2,14,300.22,197,29
+29,Leather Belt,2,20,498.08,270,21
+30,Leather Belt - Pro Edition,2,18,431.09,5,48
+31,Summer Dress,2,4,342.45,274,22
+32,Summer Dress - Pro Edition,2,11,60.22,222,15
+33,Formal Shirt,2,15,6.61,369,21
+34,Formal Shirt - Pro Edition,2,17,382.17,259,11
+35,Yoga Pants,2,10,421.63,259,43
+36,Yoga Pants - Pro Edition,2,7,80.66,390,15
+37,Winter Coat,2,18,476.98,472,38
+38,Winter Coat - Pro Edition,2,1,301.48,250,6
+39,Baseball Cap,2,4,464.9,449,24
+40,Baseball Cap - Pro Edition,2,8,33.67,449,41
+41,Non-Stick Pan,3,3,47.4,248,9
+42,Non-Stick Pan - Pro Edition,3,18,384.09,65,47
+43,Blender,3,16,473.69,84,21
+44,Blender - Pro Edition,3,17,436.85,216,18
+45,Coffee Maker,3,18,378.86,353,17
+46,Coffee Maker - Pro Edition,3,10,202.5,343,46
+47,Bed Sheet Set,3,12,221.86,264,33
+48,Bed Sheet Set - Pro Edition,3,4,127.71,32,26
+49,Vacuum Cleaner,3,1,296.21,117,42
+50,Vacuum Cleaner - Pro Edition,3,8,8.56,362,45
+51,Dinner Plate Set,3,2,118.33,463,7
+52,Dinner Plate Set - Pro Edition,3,11,40.07,121,22
+53,Knife Set,3,16,111.05,67,41
+54,Knife Set - Pro Edition,3,19,238.97,401,35
+55,Air Fryer,3,14,99.25,49,47
+56,Air Fryer - Pro Edition,3,14,180.38,210,34
+57,Table Lamp,3,2,338.32,330,11
+58,Table Lamp - Pro Edition,3,2,204.3,173,11
+59,Storage Organizer,3,8,99.84,274,33
+60,Storage Organizer - Pro Edition,3,5,213.83,142,34
+61,Mystery Novel,4,8,437.87,38,33
+62,Mystery Novel - Pro Edition,4,18,53.46,333,39
+63,Cook Book,4,1,484.65,474,20
+64,Cook Book - Pro Edition,4,6,206.17,246,18
+65,Self-Help Guide,4,13,451.71,84,29
+66,Self-Help Guide - Pro Edition,4,1,492.73,135,34
+67,Sci-Fi Anthology,4,10,214.39,490,40
+68,Sci-Fi Anthology - Pro Edition,4,16,81.62,151,18
+69,History Book,4,2,291.69,277,8
+70,History Book - Pro Edition,4,11,33.3,299,35
+71,Children's Story,4,17,460.1,271,15
+72,Children's Story - Pro Edition,4,2,480.59,41,16
+73,Biography,4,3,299.54,345,20
+74,Biography - Pro Edition,4,13,64.34,455,41
+75,Poetry Collection,4,8,291.56,20,44
+76,Poetry Collection - Pro Edition,4,3,212.52,298,41
+77,Business Guide,4,17,161.6,133,18
+78,Business Guide - Pro Edition,4,11,123.15,202,13
+79,Fantasy Novel,4,10,231.33,475,9
+80,Fantasy Novel - Pro Edition,4,1,231.85,288,11
+81,Yoga Mat,5,3,271.13,259,21
+82,Yoga Mat - Pro Edition,5,5,466.96,451,9
+83,Dumbbell Set,5,8,187.92,80,33
+84,Dumbbell Set - Pro Edition,5,18,353.25,313,46
+85,Camping Tent,5,17,8.87,418,40
+86,Camping Tent - Pro Edition,5,10,466.22,53,13
+87,Cycling Helmet,5,9,62.14,54,40
+88,Cycling Helmet - Pro Edition,5,5,139.81,309,18
+89,Running Shorts,5,11,105.78,324,21
+90,Running Shorts - Pro Edition,5,17,246.82,463,8
+91,Basketball,5,3,318.97,424,22
+92,Basketball - Pro Edition,5,2,6.76,394,13
+93,Fishing Rod,5,9,84.98,226,40
+94,Fishing Rod - Pro Edition,5,14,282.65,57,9
+95,Hiking Backpack,5,5,275.07,427,28
+96,Hiking Backpack - Pro Edition,5,19,278.5,220,13
+97,Resistance Bands,5,2,157.59,460,7
+98,Resistance Bands - Pro Edition,5,12,108.99,127,47
+99,Water Bottle,5,4,180.07,286,31
+100,Water Bottle - Pro Edition,5,20,375.99,473,20
+101,Face Moisturizer,6,6,488.22,415,16
+102,Face Moisturizer - Pro Edition,6,14,17.27,377,26
+103,Shampoo,6,14,402.11,442,20
+104,Shampoo - Pro Edition,6,9,83.8,359,11
+105,Lipstick Set,6,13,436.72,439,35
+106,Lipstick Set - Pro Edition,6,8,103.79,470,34
+107,Perfume,6,12,156.07,407,19
+108,Perfume - Pro Edition,6,8,16.71,98,30
+109,Hair Dryer,6,11,142.91,35,22
+110,Hair Dryer - Pro Edition,6,12,322.53,204,48
+111,Sunscreen SPF50,6,18,168.92,14,12
+112,Sunscreen SPF50 - Pro Edition,6,9,93.39,492,21
+113,Face Mask Pack,6,2,58.66,222,27
+114,Face Mask Pack - Pro Edition,6,11,221.01,261,12
+115,Nail Polish Set,6,13,450.25,97,21
+116,Nail Polish Set - Pro Edition,6,2,355.85,0,38
+117,Electric Razor,6,18,344.99,481,47
+118,Electric Razor - Pro Edition,6,7,185.29,35,47
+119,Body Lotion,6,11,313.46,339,12
+120,Body Lotion - Pro Edition,6,10,256.03,341,31
+121,Building Blocks Set,7,11,204.19,151,40
+122,Building Blocks Set - Pro Edition,7,5,99.96,340,29
+123,Puzzle 1000pc,7,6,309.68,154,30
+124,Puzzle 1000pc - Pro Edition,7,18,417.69,155,23
+125,Remote Control Car,7,7,217.79,296,43
+126,Remote Control Car - Pro Edition,7,11,235.17,226,48
+127,Board Game,7,7,258.03,406,15
+128,Board Game - Pro Edition,7,3,145.47,339,45
+129,Action Figure,7,20,170.92,419,20
+130,Action Figure - Pro Edition,7,10,116.2,101,14
+131,Stuffed Bear,7,1,27.88,243,44
+132,Stuffed Bear - Pro Edition,7,3,230.43,453,45
+133,Doll House,7,19,101.25,356,29
+134,Doll House - Pro Edition,7,16,202.83,75,46
+135,Card Game Deck,7,1,446.87,440,11
+136,Card Game Deck - Pro Edition,7,14,113.33,411,49
+137,Educational Kit,7,17,234.95,285,20
+138,Educational Kit - Pro Edition,7,4,230.95,410,34
+139,Toy Drone,7,17,494.01,304,25
+140,Toy Drone - Pro Edition,7,15,308.26,368,37
+141,Organic Coffee Beans,8,14,416.13,280,33
+142,Organic Coffee Beans - Pro Edition,8,6,373.11,243,33
+143,Green Tea Pack,8,9,377.13,430,45
+144,Green Tea Pack - Pro Edition,8,9,384.08,266,36
+145,Olive Oil 1L,8,8,140.93,39,50
+146,Olive Oil 1L - Pro Edition,8,10,121.07,171,25
+147,Dark Chocolate Bar,8,18,44.89,77,19
+148,Dark Chocolate Bar - Pro Edition,8,13,348.51,361,18
+149,Almond Butter,8,3,210.36,169,39
+150,Almond Butter - Pro Edition,8,15,210.81,105,31
+151,Pasta Pack,8,13,452.9,299,49
+152,Pasta Pack - Pro Edition,8,1,429.08,391,41
+153,Honey Jar,8,13,241.1,482,27
+154,Honey Jar - Pro Edition,8,10,377.97,436,31
+155,Mixed Nuts Bag,8,18,375.02,279,43
+156,Mixed Nuts Bag - Pro Edition,8,8,246.67,139,32
+157,Cereal Box,8,16,19.37,172,47
+158,Cereal Box - Pro Edition,8,13,363.47,430,34
+159,Spice Set,8,5,490.46,273,6
+160,Spice Set - Pro Edition,8,13,297.99,339,6
+161,Car Phone Mount,9,3,323.16,69,34
+162,Car Phone Mount - Pro Edition,9,6,29.89,194,25
+163,Seat Cover Set,9,7,230.08,172,29
+164,Seat Cover Set - Pro Edition,9,9,377.24,425,31
+165,LED Headlight,9,9,418.28,240,6
+166,LED Headlight - Pro Edition,9,18,30.78,487,27
+167,Car Vacuum,9,8,326.82,399,46
+168,Car Vacuum - Pro Edition,9,2,378.35,486,20
+169,Tire Inflator,9,7,420.42,318,14
+170,Tire Inflator - Pro Edition,9,8,67.48,342,12
+171,Dash Cam,9,19,474.14,238,49
+172,Dash Cam - Pro Edition,9,9,384.61,85,43
+173,Steering Wheel Cover,9,20,482.05,367,12
+174,Steering Wheel Cover - Pro Edition,9,6,482.54,55,42
+175,Car Air Freshener,9,1,464.8,294,48
+176,Car Air Freshener - Pro Edition,9,13,201.34,366,17
+177,Jump Starter,9,3,298.09,425,45
+178,Jump Starter - Pro Edition,9,8,55.44,395,24
+179,Floor Mats,9,20,403.74,407,41
+180,Floor Mats - Pro Edition,9,2,176.87,219,47
+181,Desk Organizer,10,12,39.13,331,26
+182,Desk Organizer - Pro Edition,10,1,425.54,421,36
+183,Notebook Pack,10,4,219.59,185,45
+184,Notebook Pack - Pro Edition,10,15,355.12,222,16
+185,Ballpoint Pens Box,10,17,482.91,138,44
+186,Ballpoint Pens Box - Pro Edition,10,18,388.45,238,32
+187,Sticky Notes,10,19,137.86,436,20
+188,Sticky Notes - Pro Edition,10,3,143.07,230,20
+189,Stapler,10,15,287.08,342,29
+190,Stapler - Pro Edition,10,11,19.21,435,25
+191,Whiteboard,10,6,246.34,181,21
+192,Whiteboard - Pro Edition,10,11,143.43,305,49
+193,File Folder Set,10,9,280.12,264,17
+194,File Folder Set - Pro Edition,10,3,124.47,208,36
+195,Desk Chair,10,18,380.29,353,35
+196,Desk Chair - Pro Edition,10,16,226.85,8,10
+197,Printer Paper Ream,10,10,114.69,354,20
+198,Printer Paper Ream - Pro Edition,10,10,333.66,188,35
+199,Label Maker,10,18,267.81,217,40
+200,Label Maker - Pro Edition,10,11,179.15,232,22
