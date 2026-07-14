@@ -40,7 +40,7 @@ SQL skills across:
 | `reviews` | 350 | Customer product reviews & ratings |
 
 See <a href="https://github.com/Manohar-92/E-Commerce-Store-SQL-Analysis-Project/blob/main/Ecommerce_Store_Schema_Diagram.png">Ecommerce_Store_Schema_Diagram.png<a/> above for the full entity
-relationship diagram, or `Ecommerce_Store_Create_Tables_Query_POSTGRES.sql`
+relationship diagram, or <a href="https://github.com/Manohar-92/E-Commerce-Store-SQL-Analysis-Project/blob/main/Ecommerce_Store_Create_Tables_Query.sql">Ecommerce_Store_Create_Tables_Query.sql<a/>
 for the raw DDL.
 
 ## 📁 Repository Structure
